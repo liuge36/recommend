@@ -1,0 +1,36 @@
+*.class
+
+#package file
+*.war
+*.ear
+
+# other
+ml-latest/
+
+#maven
+target/
+
+#eclipse ignore
+.settings/
+.project
+.classpatch
+
+
+#idea
+.idea/
+/idea/
+*.ipr
+*.iml
+*.iws
+
+#temp file
+*.log
+*.cache
+*.diff
+*.patch
+*.tmp
+
+# system ignore
+.DS_Strore
+Thnmbs.db
+
